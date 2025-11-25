@@ -6,8 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is my first code</h1>
-    <h2>This is thes branch</h2>
-    <h1>Hello World</h1>
+    
 </body>
 </html>
